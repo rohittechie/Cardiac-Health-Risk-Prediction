@@ -1,6 +1,6 @@
 ---
 
-# 🫀📊 **Cardiac Health Risk Prediction** ❤️🔍🩺
+# 🫀📈 **Cardiac Health Risk Prediction** 🔍❤️
 
 ## 📌 Overview
 
