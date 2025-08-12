@@ -15,7 +15,7 @@ loaded_model.load_model('xgb_model.bin')
 
 
 # page title
-st.title('Heart Attack Prediction using ML')
+st.title('🫀📈 Cardiac Health Risk Prediction 🔍❤️')
 
 st.markdown(
     """
@@ -97,3 +97,4 @@ if st.button('Predict'):
         else:
             #st.write('Patient has risk of Heart Attack')
             st.markdown("<h2 style='text-align: center; color: red;'>Patient has risk of Heart Attack</h2>", unsafe_allow_html=True)
+
