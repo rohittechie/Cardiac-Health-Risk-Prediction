@@ -1,6 +1,6 @@
 ---
 
-# 🫀📈 **Cardiac Health Risk Prediction** 🔍❤️
+# 💓🩺 **HEARTBEAT – A Multi-Parametric Cardiac Prognostic Framework** 📊🤖
 
 ## 📌 Overview
 
